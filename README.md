@@ -1,2 +1,9 @@
-# stock
-terminal stock with golang
+# Terstock
+Terstock is a terminal stock ui with golang
+
+## Feature
+
+## Using
+
+## Thanks 
+[termui](https://github.com/gizak/termui)
